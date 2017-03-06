@@ -1,0 +1,14 @@
+* {
+    font-family: 'Ranga', cursive;
+}
+
+html {
+    background: url("https://unsplash.it/1600/1200/?random") no-repeat center center fixed;
+    background-size: cover;
+}
+
+div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
